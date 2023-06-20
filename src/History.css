@@ -1,0 +1,17 @@
+#div3{
+    background-image: url("https://m.economictimes.com/thumb/msid-75536152,width-1200,height-900,resizemode-4,imgsize-299630/amul-also-chose-to-serve-a-portion-of-the-past-decades-with-television-commercials-made-in-the-80s-.jpg");
+    background-size: auto;
+    height: 800px;
+    width: 1200px;
+    border-image-outset: 10vmax;
+    border-style: groove;
+    border-spacing: 3cm;
+}
+#div4{
+    background-image: url("https://www.go-yubi.com/wp-content/uploads/2022/08/amul-company-model.png");
+    height:290px;
+    width: 100px;
+    padding-left: 5cm;
+    padding-right: 5cm;
+    border: double;
+}

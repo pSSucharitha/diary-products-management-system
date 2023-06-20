@@ -1,0 +1,9 @@
+#div1{
+    background-image:url("https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2022-11/dairy-products-milk-cottage-cheese-sour-cream-butter-eggs-selective-focus.jpg");
+    background-size: cover;
+    height: 700px;
+    width: 1400px;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    text-align: center;
+}
